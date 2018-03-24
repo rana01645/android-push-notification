@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "123654306753",
+    "firebase_url": "https://android-push-notificatio-c4c16.firebaseio.com",
+    "project_id": "android-push-notificatio-c4c16",
+    "storage_bucket": "android-push-notificatio-c4c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123654306753:android:84ca950f891ef851",
+        "android_client_info": {
+          "package_name": "com.trickbd.androidpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123654306753-q696j8p9b95rro2u873e5chbafr9urip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trickbd.androidpushnotification",
+            "certificate_hash": "6F7B487130D97A4D3B2947D31A73751AD312F0A7"
+          }
+        },
+        {
+          "client_id": "123654306753-qud1qafss57pi84vrf9q8ejgr8rr3ni8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApfVZukFmrGRoR3PawU_m7C7eSetcDZ8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123654306753-qud1qafss57pi84vrf9q8ejgr8rr3ni8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

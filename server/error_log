@@ -1,0 +1,4 @@
+[13-Dec-2016 21:41:49 UTC] PHP Parse error:  syntax error, unexpected '$key' (T_VARIABLE), expecting function (T_FUNCTION) in /home/droidrace/public_html/pushnotification/firebase.php on line 8
+[14-Dec-2016 18:49:17 UTC] PHP Fatal error:  Call to undefined method Push::setPayload() in /home/droidrace/public_html/pushnotification/index.php on line 97
+[14-Dec-2016 18:50:20 UTC] PHP Fatal error:  Call to undefined method Push::setPayload() in /home/droidrace/public_html/pushnotification/index.php on line 97
+[14-Dec-2016 18:50:21 UTC] PHP Fatal error:  Call to undefined method Push::setPayload() in /home/droidrace/public_html/pushnotification/index.php on line 97
