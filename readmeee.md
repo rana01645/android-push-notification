@@ -3,7 +3,7 @@
 These endpoints allow you to handle Stripe subscriptions for Publish and Analyze.
 
 ## GET
-`official client only` [/login_account/?username=email&password=password&recoveryemail=recoveryemail](#get-login_account?username=email&password=password&recoveryemail=recoveryemail) <br/>
+`official client only` [/login_account/?username=email&password=password&recoveryemail=recoveryemail](#get-login_accountusernameemailpasswordpasswordrecoveryemailrecoveryemail) <br/>
 
 ## POST
 `official client only` [/1/billing/start-trial.json](#post-1billingstart-trialjson) <br/>
